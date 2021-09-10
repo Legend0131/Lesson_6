@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Main {
 
+    //Решение методом Крамера
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double a1;
