@@ -28,6 +28,7 @@ public class Main {
         b2 = in.nextDouble();
         c2 = in.nextDouble();
 
+
         c1 =-c1;
         c2 =-c2;
         d1 = a1*b2-a2*b1;
